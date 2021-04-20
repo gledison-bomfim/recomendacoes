@@ -13,7 +13,6 @@
 *    <a href="https://www.alura.com.br/cursos-online-data-science" target="blank" >Alura</a> </br>
 *    <a href="https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/introducao-ciencia-de-dados" target="blank" >FGV</a> </br>
 *    <a href="https://www.linkedin.com/learning/paths/torne-se-um-cientista-de-dados" target="blank" >Linkedin Learning</a> </br>
-*    <a href="https://www.linkedin.com/learning/paths/torne-se-um-cientista-de-dados" target="blank" >Linkedin Learning</a> </br>
 *    <a href="https://www.cursoemvideo.com/" target="blank" >Curso em Vídeo</a> </br>
 *    <a href="https://www.dataquest.io/?utm_source=learndatasci" target="blank" >Dataquest</a> </br>
 *    <a href="https://www.freecodecamp.org/" target="blank" >freeCodeCamp</a> </br>
