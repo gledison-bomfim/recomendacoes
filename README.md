@@ -7,6 +7,7 @@
 *   <a href="https://open.spotify.com/show/1oD8x4L9Tzu2hcPRUkfwhh?si=hWVRb404RX2NuBEFBurZ7Q" target="blank" >Data Science Academy
 </a> </br>
 *   <a href="https://open.spotify.com/show/1oMIHOXsrLFENAeM743g93?si=jn0-kPeYRuWh67G5Jp3sSw" target="blank" >Data Hackers</a> </br>
+*   <a href="https://open.spotify.com/show/5n9mOmAcjra9KbhKYpOMqY?si=A9MwgQanQleAvp8nLFY5mA&dl_branch=1&nd=1" target="blank" >Engenharia de Dados [Cast]</a> </br>
 
 ### Cursos
 *    <a href="https://www.datascienceacademy.com.br/pages/home" target="blank" >Data Science Academy</a> </br>
